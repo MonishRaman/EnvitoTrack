@@ -3,6 +3,10 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f0f8ff;
+    background-image: url('./assets/image.png');
+    background-size: cover;          /* Ensures the image covers the whole page */
+    background-position: center;     /* Centers the background image */
+    background-repeat: no-repeat;
 }
 
 header {
